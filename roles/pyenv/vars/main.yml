@@ -1,0 +1,6 @@
+---
+first_python_version: "3.8"
+second_python_version: "3.9"
+global_python_version: "3.10"
+first_target_dir: firstpy
+second_target_dir: secondpy
